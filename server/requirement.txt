@@ -1,0 +1,6 @@
+virtual enviriroment
+.\plant\Scripts\activate.ps1                       
+pip install flask
+python3 -m venv plant
+flask_cors
+pytorch

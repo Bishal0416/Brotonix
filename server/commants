@@ -1,0 +1,8 @@
+pip install virtualenv
+virtualenv plant
+.\plant\Scripts\activate.ps1
+
+
+
+pip install flask
+pip install onnxruntime
